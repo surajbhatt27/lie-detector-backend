@@ -1,0 +1,14 @@
+{
+  "name": "liedetector",
+  "version": "1.0.0",
+  "description": "AI-powered backend for detecting lies from written statements or articles.",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write"
+  },
+  "author": "Suraj Bhatt",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
